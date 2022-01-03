@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="flamclub_design1" size="1.000000 0.613333" />
+    <ImageTarget name="hello" size="1.000000 0.562500" />
+    <ImageTarget name="Untitled" size="1.000000 0.428956" />
+    <ImageTarget name="Pattern_4" size="1.000000 0.714286" />
+    <ImageTarget name="Pattern_1" size="1.000000 0.714286" />
+    <ImageTarget name="Pattern_2" size="1.000000 0.714286" />
+    <ImageTarget name="Pattern_8" size="1.000000 0.714286" />
+    <ImageTarget name="Pattern_11" size="1.000000 0.714286" />
+    <ImageTarget name="Pattern_12" size="1.000000 0.714286" />
+    <ImageTarget name="Pattern_10" size="1.000000 0.714286" />
+    <ImageTarget name="b7" size="1.000000 0.653543" />
+    <ImageTarget name="b6" size="1.000000 0.653543" />
+    <ImageTarget name="b5" size="1.000000 0.653543" />
+    <ImageTarget name="c1" size="1.000000 0.653543" />
+    <ImageTarget name="b3" size="1.000000 0.653543" />
+    <ImageTarget name="b2" size="1.000000 0.653543" />
+    <ImageTarget name="christmas_banner-10" size="1.000000 0.714286" />
+    <ImageTarget name="a1" size="1.000000 0.653543" />
+    <ImageTarget name="Untitled-1" size="1.000000 0.653543" />
+  </Tracking>
+</QCARConfig>
